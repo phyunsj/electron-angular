@@ -42,7 +42,7 @@ Electron + https://github.com/phyunsj/angular-custom-validator-generation (origi
 6. run electron
 > npm run electron-build
 
-7. packageing for desktop 
+7. packaging for desktop 
 
 > electron-packager . --platform=win32 --overwrite
 
