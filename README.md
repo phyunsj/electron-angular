@@ -45,5 +45,5 @@ Electron + https://github.com/phyunsj/angular-custom-validator-generation (origi
 
 This will generate a directory `/[..A..]-win32-x64/` that contains the executable file.
 
-`[..A..]` from package.json's `name`
+`[..A..]` : `name` from package.json
 
