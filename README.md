@@ -2,7 +2,7 @@
 
 Electron + https://github.com/phyunsj/angular-custom-validator-generation (originally from "Angular In Action" Ch.9 Example https://github.com/angular-in-action/invoice )
 
-![electron](https://github.com/phyunsj/electron-angular/blob/master/electron-network-monitor.png "network monitor")
+![electron](https://github.com/phyunsj/electron-angular/blob/master/electron-monitor.png "network monitor")
 
 
 ## Steps
