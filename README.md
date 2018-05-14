@@ -46,7 +46,7 @@ Electron + https://github.com/phyunsj/angular-custom-validator-generation (origi
 
 > electron-packager . --platform=win32 --overwrite
 
-This will generate a directory `/[..A..]-win32-x64/` that contains the executable file.
+This will generate a directory `/[..A..]-win32-x64/` (`[..A..]` : `name` from package.json) that contains the executable file `invoice.exe`.
 
-`[..A..]` : `name` from package.json
+
 
