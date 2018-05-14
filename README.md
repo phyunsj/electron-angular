@@ -48,5 +48,9 @@ Electron + https://github.com/phyunsj/angular-custom-validator-generation (origi
 
 This will generate a directory `/[..A..]-win32-x64/` (`[..A..]` : `name` from package.json) that contains the executable file `invoice.exe`.
 
+## Additional Notes
+
+3 Necessary Things to Correctly Release a Product Based on the Electron App
+https://nulab-inc.com/blog/typetalk/3-necessary-things-to-correctly-release-a-product-based-on-the-electron-app/
 
 
