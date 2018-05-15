@@ -1,4 +1,4 @@
-# Electron + Angular 
+# Electron + Angular Quick Start
 
 Electron + https://github.com/phyunsj/angular-custom-validator-generation (originally from "Angular In Action" Ch.9 Example https://github.com/angular-in-action/invoice )
 
@@ -53,4 +53,5 @@ This will generate a directory `/"name"-win32-x64/` (`"name"` from package.json)
 3 Necessary Things to Correctly Release a Product Based on the Electron App
 https://nulab-inc.com/blog/typetalk/3-necessary-things-to-correctly-release-a-product-based-on-the-electron-app/
 
+electron-packager https://github.com/electron-userland/electron-packager
 
